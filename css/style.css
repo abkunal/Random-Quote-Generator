@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+
+body {
+	font-family: 'Dancing Script', cursive;
+	height: 100%;
+	width: 100%;
+}
+
+.well {
+	margin-top: 70px;
+	
+}
+
+#quote {
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+h1 {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.btn {
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size: 1.6em;
+	font-family: 'Handlee', cursive;
+}
+
+h4 {
+	color: chocolate;
+	font-size: 1.5em;
+}
